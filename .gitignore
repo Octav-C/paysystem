@@ -45,3 +45,5 @@ build/
 
 # Log file
 *.log
+/mvnw
+/mvnw.cmd
